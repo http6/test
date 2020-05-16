@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://note.youdao.com/yws/public/resource/b814c86bbdd2da3df1b2744a37dd7dc3/xmlnote/WEBRESOURCE91d21ce82b2ff761579024cbbe4c08ab/7252</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://linji.oss-cn-hangzhou.aliyuncs.com/download/ios/60%402x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://linji.oss-cn-hangzhou.aliyuncs.com/download/ios/60%403x.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.linrun.wanche</string>
+				<key>bundle-version</key>
+				<string>1.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>林记</string>
+				<key>title</key>
+				<string>万车商城</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
